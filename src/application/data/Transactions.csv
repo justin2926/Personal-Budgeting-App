@@ -1,0 +1,11 @@
+Name,Type,Date,Description,Payment Amount,Deposit Amount
+Justin,Payment,2024-11-05,Laptop,900.0,0.0
+Justin,Payment,2024-12-02,Books,40.0,0.0
+Justin,Payment,2024-11-25,Phone,700.0,0.0
+Justin,Payment,2024-12-11,Dog toys,20.0,0.0
+Justin,Deposit,2024-12-20,Checking Deposit,0.0,35.0
+Timmy,Withdrawal,2024-11-13,Cash withdrawal,35.0,0.0
+Timmy,Transfer,2024-12-03,Transfer to savings,500.0,0.0
+Tony,Payment,2024-10-24,Groceries,80.0,0.0
+Tony,Payment,2024-10-11,Credit card payment,120.0,0.0
+Tony,Withdrawal,2024-12-02,Cash withdrawal,50.0,0.0

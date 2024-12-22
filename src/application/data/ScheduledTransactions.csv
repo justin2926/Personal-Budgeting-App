@@ -1,0 +1,9 @@
+Name,Type,Description,Frequency,Payment Amount, Due Date
+Justin,Payment,Car payment,Monthly,424.0,21
+Justin,Payment,Phone bill,Monthly,60.0,21
+Justin,Payment,Internet bill,Monthly,50.0,21
+Justin,Transfer,Investments,Weekly,200.0,5
+Tony,Transfer,Savings,Weekly,150.0,7
+Tony,Payment,Mortgage,Monthly,1700.0,12
+Timmy,Payment,Spotify premium,Monthly,10.0,20
+Timmy,Payment,Netflix,Monthly,15.0,17
