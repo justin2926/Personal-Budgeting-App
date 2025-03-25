@@ -1,4 +1,4 @@
-# Transactify
+# Personal Budgeting App
 
 ## Description
 A personal budgeting system application built with **JavaFX** to help users manage their finances. This app allows users to create accounts, track expenses, view reports, and more!
