@@ -19,7 +19,7 @@ A personal budgeting system application built with **JavaFX** to help users mana
 
 ---
 
-## 🖥️ Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 - JDK 23
